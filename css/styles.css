@@ -75,3 +75,8 @@ main > .tagline {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
 }
+
+.sp-logo {
+  height: 1.5rem;
+}
+

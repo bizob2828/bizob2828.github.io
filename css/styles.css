@@ -51,8 +51,11 @@ main > .intro {
 
 main > .tagline {
 	font-size: 1.5rem;
-	margin: 1.5rem 0;
 	font-weight: 100;
+}
+
+main > .tagline > .titles {
+  padding: 1rem;
 }
 
 .icons-social i {
@@ -76,7 +79,7 @@ main > .tagline {
   -webkit-border-radius: 50%;
 }
 
-.sp-logo {
-  height: 1.5rem;
+.co-logo {
+  height: 3.0rem;
 }
 

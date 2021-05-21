@@ -28,6 +28,10 @@ html {
 	}
 }
 
+.icons-social {
+  padding-top: 1.5em;
+}
+
 .icons-social i {
 	font-size: 3em;
 }
@@ -55,7 +59,7 @@ main > .tagline {
 }
 
 main > .tagline > .titles {
-  padding: 1rem;
+  padding-top: 1rem;
 }
 
 .icons-social i {
@@ -80,6 +84,6 @@ main > .tagline > .titles {
 }
 
 .co-logo {
-  height: 3.0rem;
+  height: 5.0rem;
 }
 
